@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="question_text">"Constantinople is the largest city in Turkey."</string>
@@ -8,4 +7,8 @@
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic.</string>
+    <string name="question_raleigh">Raleigh is in North Carolina</string>
+    <string name="question_car">I drive an Audi</string>
 </resources>
